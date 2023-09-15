@@ -2,4 +2,8 @@
 Created with CodeSandbox
 
 
-![Demo] (https://user-images.githubusercontent.com/77893122/268382173-e6d0072e-cef5-4042-a4e8-a85b79996789.gif)
+
+
+
+https://github.com/dragana1611/navbar-css-trigonometric-function/assets/77893122/eb5b662c-671c-4b7f-baa8-fabeff00f872
+
